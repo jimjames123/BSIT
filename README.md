@@ -1,2 +1,2 @@
 # BSIT
-This the scripting class
+This is the scripting class
